@@ -1,0 +1,41 @@
+/* style sheet voor opdrach webtech 2*/
+
+body{
+	background-color: #c4c4c3;
+}
+#wrapper{
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+nav ul li{
+	width: 25%;
+	float:left;
+	list-style: none;
+}
+nav ul li a:link,
+nav ul li a:visited,
+nav ul li a:hover,
+nav ul li a:active{
+	text-decoration: none;
+}
+
+#foto{
+	width: 250px;
+	height: 250px;
+	border-radius: 250px;
+	float: left;
+	padding-top: 25px;
+}
+#ingredienten{
+	width: 530px;
+	float: right;
+	padding-left: 200px;
+	padding-top: 25px;
+}
+#bereiding{
+	width: 100%;
+	
+
+}
+
